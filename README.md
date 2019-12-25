@@ -25,9 +25,8 @@ Linux：
 		在下载allure-command工具
 		https://github.com/allure-framework/allure2/releases
 		下载合适的之后将bin目录下的执行文件allure添加到环境变量或者bashrc下
-````	
-### 项目目录介绍
 ````
+### 项目目录介绍
 
 ├── Config                  # 配置文件路基
 │   ├── Config.ini
